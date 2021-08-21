@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Timelines on Nyowa</title>
+        <link>https://Nyowa450.github.io/timeline/</link>
+        <description>Recent content in Timelines on Nyowa</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Sat, 21 Aug 2021 20:05:51 +0900</lastBuildDate>
+        <atom:link href="https://Nyowa450.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Renewal</title>
+            <link>https://Nyowa450.github.io/timeline/renewal/</link>
+            <pubDate>Sat, 21 Aug 2021 20:05:51 +0900</pubDate>
+            
+            <guid>https://Nyowa450.github.io/timeline/renewal/</guid>
+            <description>ひさしぶりにHugoを触ってみた。
+それにともないテーマも変えて気分を一新してみた。
+ひさしぶりにGit等にふれたためか、めちゃくちゃつかれた…</description>
+            <content type="html"><![CDATA[<p>ひさしぶりにHugoを触ってみた。</p>
+<p>それにともないテーマも変えて気分を一新してみた。</p>
+<p>ひさしぶりにGit等にふれたためか、めちゃくちゃつかれた…</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
