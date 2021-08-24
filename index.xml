@@ -6,10 +6,24 @@
     <description>Recent content on Nyowa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Aug 2021 20:05:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Aug 2021 23:16:26 +0900</lastBuildDate>
     
 	<atom:link href="https://Nyowa450.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ねむねむにゃんこ</title>
+      <link>https://Nyowa450.github.io/timeline/%E3%81%AD%E3%82%80%E3%81%AD%E3%82%80%E3%81%AB%E3%82%83%E3%82%93%E3%81%93/</link>
+      <pubDate>Tue, 24 Aug 2021 23:16:26 +0900</pubDate>
+      
+      <guid>https://Nyowa450.github.io/timeline/%E3%81%AD%E3%82%80%E3%81%AD%E3%82%80%E3%81%AB%E3%82%83%E3%82%93%E3%81%93/</guid>
+      <description>起床 起床したのは朝の4時。オワ。 朝早く起きてもやれることがあまり存在せず（これは私の生活リズムに由来すると思われるのではあるが）、結果本を読んだりうたた寝したりを繰り返しながらなんともうとうとした時間をすごした。
+朝ごはんは牛乳に冷凍ブルーベリーを入れたもの。これをスプーンですくって食すとおいしい。
+朝食後、まだ時間があったため『いちばんやさしいGit＆Githubの教科書』を読み進める。 個人的にはGitでssh-keygenしてssh接続を確立する手順について詳しく記されていて参考になった。
+事業所 事業所ではひたすらプレゼンのスライドをつくった。 人に自分の考えを伝えるにはそれ相応の労力が必要であるということは、ここ数日真に感じるところである。 スライドの微細なデザインにも意を払い、自らの考えを落とし込んでいく。 それはしんどい作業ではあるが、同時にやりがいも感じるものである。
+ デザインとは、人に伝える作業である  人に伝えるとは、考えや概念を伝わる形で他者に伝達することである そのための労力は惜しんではならない  細部にこそ説得力は宿る      しかし資料づくりばかりしてたら頭がふらふらしてしまった。
+今日の就寝は早くなるだろうと思う…🌵</description>
+    </item>
     
     <item>
       <title>Renewal</title>
