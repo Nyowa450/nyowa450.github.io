@@ -6,10 +6,30 @@
     <description>Recent content on Nyowa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Aug 2021 23:16:26 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 16:12:42 +0900</lastBuildDate>
     
 	<atom:link href="https://Nyowa450.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ふわふわにゃんこ</title>
+      <link>https://Nyowa450.github.io/timeline/%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AB%E3%82%83%E3%82%93%E3%81%93/</link>
+      <pubDate>Wed, 25 Aug 2021 16:12:42 +0900</pubDate>
+      
+      <guid>https://Nyowa450.github.io/timeline/%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AB%E3%82%83%E3%82%93%E3%81%93/</guid>
+      <description>起床 起床8時。 起床直後からクレジットカードの引き落としでトラブルが判明し、悶絶する（金融関係のトラブルは精神にきます）。
+朝ごはんは冷凍ブルーベリーに牛乳をかけたものをスプーンでパクパク食べる。
+クレジット関係の処理であたふたしながらあわてて家を出る。
+###　事業所
+今日の事業所では主に社内インフラの整備（クラウドサービスの環境を整える等）、その後は職員さんとひたすら喋り時間をつぶ…もとい建設的な議論を行う。
+話題に上がったことをいくつかまとめたい
+事業所での予算  予算は自然に湧くものではない  事業の初期段階では比較的融通がきく しかしある程度事業規模が拡大した段階では縮小する方向に動く  現在の事業所は後者の段階に入りつつある     予算を獲得するには要点を抑えて丁寧すぎるぐらいに説明する必要がある  ともすれば丁寧に過ぎるぐらいのほうがよい（ただし場合による） それを簡便に実現するのが起案書というフォーマットである   つまり起案書を書く必要がある…  デザイン  デザインは、なにを表現するかと同じぐらい『なにを表現しない』かが肝要  これは表裏一体の問題  表現することは、なにを表現しないかという選択に通ずる      プレゼン  長大なプレゼン資料をスライド10枚程度にまとめられるとよい 短く要点がまとまってる資料は万人に伝わる  業務後 業務後はオフィスでダラダラしながらこの日記を書いた。 またこのブログを事業者の同僚に紹介し暇を潰すなど極めて生産的な活動に従事した。
+自分用メモ
+git add .
+git commit -a -m &amp;quot;hoge&amp;quot;
+git push origin master
+これでpublicフォルダ配下のフォイルをリモートリポジトリにpushできる。</description>
+    </item>
     
     <item>
       <title>ねむねむにゃんこ</title>
